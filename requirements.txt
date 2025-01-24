@@ -1,0 +1,17 @@
+streamlit
+gradio
+langchain
+pinecone-client
+sentence-transformers
+pdfplumber
+pandas
+numpy
+openai
+faiss-cpu
+torch
+transformers
+llama-index
+chromadb
+uvicorn
+fastapi
+tiktoken
